@@ -76,7 +76,7 @@ const About = () => {
             </article>
 
             {/* /* Projects  */}
-            <article
+            {/* <article
               className="about__card"
               data-aos="fade-left"
               data-aos-anchor=".about__cards"
@@ -91,7 +91,7 @@ const About = () => {
                 full-stack web applications, integrating front and back-end
                 technologies seamlessly.
               </small>
-            </article>
+            </article> */}
           </div>
 
           <p

@@ -101,8 +101,8 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
-  width: 150%; /* Adjust the width as needed */
-  max-width: 4500px;
+  // width: 150%; /* Adjust the width as needed */
+  // max-width: 4500px;
 }
 
 .about__card {
@@ -111,8 +111,8 @@
   border-radius: 1rem;
   padding: 2rem;
   text-align: center;
-  width: 100%; /* Adjust the width as needed */
-  max-width: 500px;
+  // width: 100%; /* Adjust the width as needed */
+  // max-width: 500px;
   transition: var(--transition);
 }
 
