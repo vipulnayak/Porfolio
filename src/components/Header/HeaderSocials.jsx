@@ -1,7 +1,7 @@
 import React from 'react'
 import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from 'react-icons/fa'
-import {SiCodewars} from 'react-icons/si'
+// import {SiCodewars} from 'react-icons/si'
 
 import 'aos/dist/aos.css'
 
