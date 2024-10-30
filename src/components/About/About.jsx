@@ -65,7 +65,7 @@ const About = () => {
               data-aos-duration="500"
             >
               <FaAward className="about__icon" />
-              <h3>Experience</h3>
+              <h3>Internship</h3>
               <h6>Saara IT Solutions pvt ltd</h6>
               <small>
                 During my internship, I spearheaded frontend design initiatives,
@@ -73,25 +73,23 @@ const About = () => {
                 orchestrated backend routing, ensuring seamless data flow and
                 robust functionality.
               </small>
+              
             </article>
 
-            {/* /* Projects  */}
-            {/* <article
+            {/* Internship  */}
+             <article
               className="about__card"
               data-aos="fade-left"
               data-aos-anchor=".about__cards"
               data-aos-duration="900"
             >
               <BsClipboardCheck className="about__icon" />
-              <h5>Projects</h5>
+              <h5>Internship</h5>
+              <h6>JP Dasolt </h6>
               <small>
-                I have hands-on experience with MERN stack development, having
-                completed several projects using MongoDB, Express.js, React.js,
-                and Node.js. These projects showcase my proficiency in building
-                full-stack web applications, integrating front and back-end
-                technologies seamlessly.
+              During my internship at JP Dasolt, I worked on a GenAI chatbot project, where I applied my technical skills and leveraged my communication abilities to enhance project outcomes. This experience allowed me to gain hands-on exposure in AI-driven development, contributing to a dynamic project environment and expanding my proficiency in innovative solutions.
               </small>
-            </article> */}
+            </article>
           </div>
 
           <p

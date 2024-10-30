@@ -122,7 +122,7 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                <strong>CGPA:</strong>84.48%
+                <strong>CGPA:</strong>8.28CGPA
               </p>
             </li>
           </ul>

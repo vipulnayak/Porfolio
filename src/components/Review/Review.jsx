@@ -15,12 +15,12 @@ const Review = () => {
 
   const reviewData = [
     {
-      avatar: require('../../assets/avatar1.jpg'),
-      name: 'Bill gates',
-      review: `It's rare that you come across standout talent like Vipul Nayak. 
-      I had the pleasure of working with Vipul Nayak for three years at Microsoft, 
-      collaborating on several project teams .
-      I'm was always in awe of Vipul's ability to command a room and always so passionate with his work. Vipul would be an asset to any team.`
+      // avatar: require('../../assets/avatar1.jpg'),
+      // name: 'Bill gates',
+      // review: `It's rare that you come across standout talent like Vipul Nayak. 
+      // I had the pleasure of working with Vipul Nayak for three years at Microsoft, 
+      // collaborating on several project teams .
+      // I'm was always in awe of Vipul's ability to command a room and always so passionate with his work. Vipul would be an asset to any team.`
     },
     {
       avatar: require('../../assets/avatar2.jpg'),

@@ -76,7 +76,7 @@ const Contact = () => {
             <h4>Linkedin</h4>
             <h5>Vipul Nayak</h5>
             <a
-              href="https://www.linkedin.com/in/vipul-nayak-22a6a8253/"
+              href="https://www.linkedin.com/in/vipul-nayak/"
               target="_blank"
               rel="noreferrer"
             >

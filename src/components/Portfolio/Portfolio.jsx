@@ -48,14 +48,15 @@ const Portfolio = () => {
         "sequelize",
       ],
     },
-    // {
-    //   name:"BERG-Maps",
-    //   deployedLink: "https://for-timi.github.io/BERG-Maps/",
-    //   image: require('../../assets/berg.png'),
-    //   fadeDuration:'1300',
-    //   description:"A web application designed to allow users to get directions and uses real-time traffic information to find the best route to your destination.",
-    //   toolsUsed: ['Mapbox API','tailwind','HTML/CSS','localStorage']
-    // },
+    {
+      name: "FlytSocial",
+      deployedLink: "https://github.com/vipulnayak/FlytSocial",
+      image: require("../../assets/flyt.jpg"),
+      fadeDuration: "1300",
+      description:
+        "FlytSocial is a social media app that enables users to stay engaged with instant notifications, fostering continuous interaction and connection. Built using Flutter, Dart, and Provider, FlytSocial showcases expertise in app development and collaborative teamwork.",
+      toolsUsed: ["Flutter", "Firebase", "Dart", "localStorage"],
+    },
     // {
     //   name: "AutoAuto",
     //   deployedLink: "https://stormy-wildwood-35895.herokuapp.com/",

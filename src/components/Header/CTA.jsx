@@ -6,7 +6,7 @@ const CTA = () => {
       <a
         data-aos="fade-right"
         target="_blank"
-        href="https://app.luminpdf.com/viewer/65f6f4240e7e7f689823e9a3"
+        href="https://drive.google.com/file/d/1EReeMQu1UCOeRGCs9XDkxpTxIHatUx18/view?usp=drivesdk"
         className="btn"
         rel="noreferrer"
       >

@@ -93,14 +93,14 @@ const Experience = () => {
                 </div>
               </article>
 
-              {/* GraphQl 
+              {/* GraphQl  */}
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon"/>
                 <div>
-                <h4>GraphQl</h4>
+                <h4>Java</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
-              </article> */}
+              </article>
               
               {/* MySQL  */}
               <article className="experience__details">
@@ -115,19 +115,19 @@ const Experience = () => {
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon"/>
                 <div>
-                <h4>REST</h4>
+                <h4>Git</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
               </article>
 
-              {/* Django 
+              {/* Django  */}
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon"/>
                 <div>
-                <h4>Django</h4>
-                <small className='text-light'>Basic</small>
+                <h4>Express</h4>
+                <small className='text-light'>Intermediate</small>
                 </div>
-              </article> */}
+              </article>
             </div>
         </div>
       </div>

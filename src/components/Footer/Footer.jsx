@@ -41,7 +41,7 @@ const Footer = () => {
         data-aos-anchor=".footer__container"
         data-aos-duration="1600"
       >
-        <a href="https://www.linkedin.com/in/vipul-nayak-22a6a8253/">
+        <a href="https://www.linkedin.com/in/vipul-nayak/">
           <BsLinkedin />
         </a>
         <a href="https://www.instagram.com/_.vipull._/">
